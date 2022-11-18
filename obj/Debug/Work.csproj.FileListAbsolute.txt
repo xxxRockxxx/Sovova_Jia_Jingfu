@@ -1,0 +1,11 @@
+D:\Codes\Work\bin\Debug\Work.exe.config
+D:\Codes\Work\bin\Debug\Work.exe
+D:\Codes\Work\bin\Debug\Work.pdb
+D:\Codes\Work\obj\Debug\Work.csproj.AssemblyReference.cache
+D:\Codes\Work\obj\Debug\Work.csproj.SuggestedBindingRedirects.cache
+D:\Codes\Work\obj\Debug\Work.csproj.CoreCompileInputs.cache
+D:\Codes\Work\obj\Debug\Work.exe
+D:\Codes\Work\obj\Debug\Work.pdb
+D:\Codes\Work\bin\Debug\YES.dll
+D:\Codes\Work\bin\Debug\YES.pdb
+D:\Codes\Work\obj\Debug\Work.csproj.CopyComplete
